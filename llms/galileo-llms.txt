@@ -1,0 +1,27 @@
+﻿# galileo.io llms.txt
+
+
+> Galileo is re‑imagining healthcare through a value‑based, digitally enabled model delivering 24/7 primary and multi‑specialty care via app, home, mobile clinics, and employer/plan partnerships.
+
+
+- [Galileo](https://galileo.io/): Overview of Galileo’s value‑based care model across digital, in‑home, and clinic settings.
+- [About](https://galileo.io/about): Mission, clinical leadership, and company story.
+- [Care](https://galileo.io/care): Description of Galileo’s care delivery settings (home, mobile, virtual) and services.
+- [Individuals](https://galileo.io/individuals): Membership plans for individuals, families.
+- [Employers](https://galileo.io/employers): Solutions for employers to offer Galileo‑based care to their workforce.
+- [Small Business](https://galileo.io/smallbusiness): Tailored health plans for small employer groups.
+- [Health Plans](https://galileo.io/health-plans): Healthcare plan partnerships and population health solutions.
+- [Partners](https://galileo.io/partners): Collaborations with employers & health‑plans.
+- [Benefits](https://galileo.io/benefits): Member benefits portal & eligibility info.
+- [Get Started – New Mexico](https://galileo.io/get-started/newmexico): Onboarding page for the New Mexico market.
+- [Get Started – United](https://galileo.io/get-started/united): Onboarding page for United partner market.
+- [Careers](https://galileo.io/careers): Open roles and careers information.
+- [Announcement: Fully Bilingual Platform](https://galileo.io/announcement/galileo-launches-first-fully-bilingual-health-care-platform-delivering-24-7-primary-and-multi-specialty-care): News about platform launch.
+- [Blog: How to Manage Chronic Conditions](https://galileo.io/blog/how-to-manage-chronic-conditions): Blog article on chronic‑condition care.
+- [Blog: Drive Better Health Outcomes by Offering Integrated Mental Health Benefits](https://galileo.io/blog/drive-better-health-care-outcomes-by-offering-integrated-mental-health-benefits): Blog on integrated mental‑health benefits.
+- [Legal – Privacy Policy](https://galileo.io/legal/privacy-policy): Privacy and data practices.
+- [Legal – Terms of Use](https://galileo.io/legal/terms-of-use): Website and service terms.
+- [Legal – Non‑Discrimination](https://galileo.io/legal/non-discrimination): Commitment to equitable access.
+
+
+<!-- last‑updated: 2025‑10‑21, refresh‑after: 90d -->

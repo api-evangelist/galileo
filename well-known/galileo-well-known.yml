@@ -1,0 +1,34 @@
+generated: '2026-07-19'
+method: searched
+source: live probes of galileo.io + galileohealth.com /.well-known/*
+note: >-
+  Galileo (galileo.io) is a value-based digital healthcare delivery company with
+  no public developer API surface. No /.well-known/ discovery documents are
+  published on either the canonical host (galileo.io) or the legacy host
+  (galileohealth.com, which 301-redirects to galileo.io). Absence recorded for
+  auditability; no WellKnown pointer is wired because nothing returned 200.
+hosts:
+- host: https://galileo.io
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+- host: https://galileohealth.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
