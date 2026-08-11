@@ -59,7 +59,7 @@ common:
   url: https://galileo.io/about
 - type: Careers
   url: https://galileo.io/careers
-- type: SignUp
+- type: Signup
   url: https://galileo.io/individuals
 - type: TermsOfService
   url: https://galileo.io/legal/terms-of-use
